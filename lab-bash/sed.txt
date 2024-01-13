@@ -1,0 +1,2 @@
+$ head sed.tx[D[D[D[D[D[D[D[D[D[C[C -n 3 sed.txt
+[A[D[A[B[C[C[C[C[C[C[C[B[B[D[D[D[D[D[D[D[A[A[A[B[B[B
